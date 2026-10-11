@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+python-dotenv
+pydantic
+chromadb
+sentence-transformers
+rank-bm25
+streamlit
+requests
+deepeval

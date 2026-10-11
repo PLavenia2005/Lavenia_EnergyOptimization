@@ -1,0 +1,11 @@
+id,topic,problem,recommendation,expected_benefit
+1,peak_demand,High energy consumption during peak hours,Shift flexible and non-critical loads to off-peak periods,Reduce peak demand and electricity costs
+2,peak_demand,Repeated evening peak consumption,Schedule energy-intensive activities outside peak hours,Reduce peak-period consumption
+3,equipment,Unexpectedly high equipment consumption,Inspect high-consumption equipment for inefficient operation or maintenance issues,Improve equipment efficiency
+4,equipment,Equipment operating longer than required,Use automated scheduling or operating-hour controls,Reduce unnecessary energy usage
+5,standby,Energy consumption remains high during inactive periods,Reduce unnecessary standby and idle loads,Lower base energy consumption
+6,temperature,Energy consumption increases under extreme indoor conditions,Review heating and cooling setpoints and operating schedules,Improve HVAC efficiency
+7,lighting,High consumption associated with lighting periods,Use occupancy-based lighting controls where appropriate,Reduce lighting energy consumption
+8,load_management,Multiple high-load activities occur simultaneously,Stagger flexible high-load activities to avoid simultaneous demand peaks,Reduce peak demand
+9,monitoring,Repeated unusual consumption patterns,Monitor consumption trends and investigate recurring anomalies,Improve early detection of inefficiency
+10,maintenance,Consumption gradually increases over time,Schedule inspection and preventive maintenance for affected equipment,Prevent efficiency degradation
